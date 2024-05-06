@@ -1,4 +1,4 @@
-#### Интернет-магазин Technozavr на Vue.js2 
+# Интернет-магазин Technozavr на Vue.js2 
 
 ## Project setup
 ```
